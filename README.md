@@ -1,4 +1,4 @@
-# Graham Essays Anthology
+# Graham Anthology
 Paul Graham essays, compiled from [https://paulgraham.com/articles.html](https://paulgraham.com/articles.html)
 
 ### [Anthology (pdf)](https://raw.githubusercontent.com/antoinejeannot/graham/main/output/graham_essays.pdf)
