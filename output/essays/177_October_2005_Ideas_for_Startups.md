@@ -137,7 +137,7 @@ making a web\-based spreadsheet and see how far we get. And everyone
 knows that if you tried this you'd be able to make
  *something* 
  useful. Maybe what you'd end up with wouldn't even be a spreadsheet.
-Maybe it would be some kind of new spreasheet\-like collaboration
+Maybe it would be some kind of new spreadsheet\-like collaboration
 tool that doesn't even have a name yet. You wouldn't have thought
 of something like that except by implementing your way toward it.
    

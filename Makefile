@@ -4,13 +4,13 @@ fetch:
 	python fetch.py
 
 pdf:
-    pandoc $(shell cat essays-list.txt) \
-    -o graham_essays.pdf \
+    pandoc $(shell cat conf/essays-list.txt) \
+    -o output/graham_essays.pdf \
     --toc \
     --toc-depth=2 \
     --pdf-engine=xelatex \
-    --include-in-header=toc-style.tex \
-    --include-before-body=title.tex \
+    --include-in-header=conf/toc-style.tex \
+    --include-before-body=conf/title.tex \
     -V documentclass=book \
     -V paper=letter \
     -V fontsize=11pt \
